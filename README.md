@@ -52,7 +52,7 @@ In today's fast-paced world, staying updated with the latest technology trends a
 - **Backend**:
   - Node.js
   - Express
-  - MongoDB
+  - Database
 
 ### APIs
 
@@ -75,6 +75,7 @@ List any external sources of data that will be used in your app.
 
 ### Mockups
 
+![Home Pgae] (https://github.com/TejalAGunjal/Capstone-Project---InventBlog/blob/main/MockUps/HomePage.jpeg)
 
 
 ### Data
