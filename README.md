@@ -75,7 +75,7 @@ List any external sources of data that will be used in your app.
 
 ### Mockups
 
-![Home Pgae] (https://github.com/TejalAGunjal/Capstone-Project---InventBlog/blob/main/MockUps/HomePage.jpeg)
+![Home Pgae](https://github.com/TejalAGunjal/Capstone-Project---InventBlog/blob/main/MockUps/HomePage.jpeg)
 
 
 ### Data
