@@ -75,8 +75,20 @@ List any external sources of data that will be used in your app.
 
 ### Mockups
 
+#### Home Page
 ![Home Pgae](https://github.com/TejalAGunjal/Capstone-Project---InventBlog/blob/main/MockUps/HomePage.jpeg)
 
+#### SignIn Page
+![SignIn Page](https://github.com/TejalAGunjal/Capstone-Project---InventBlog/blob/main/MockUps/SignInPage.jpeg)
+
+#### Welcome Page
+![Welcome Page](https://github.com/TejalAGunjal/Capstone-Project---InventBlog/blob/main/MockUps/WelcomePage.jpeg)
+
+#### Dashboard Page
+![Dashboard Page](https://github.com/TejalAGunjal/Capstone-Project---InventBlog/blob/main/MockUps/DashboardPage.jpeg)
+
+#### Profile Page
+![Profile Page](https://github.com/TejalAGunjal/Capstone-Project---InventBlog/blob/main/MockUps/ProfilePage.jpeg)
 
 ### Data
 
