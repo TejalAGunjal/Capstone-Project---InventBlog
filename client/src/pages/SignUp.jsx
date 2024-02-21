@@ -49,8 +49,7 @@ export default function SignUp() {
             Blog
           </Link>
           <p className="text-sm mt-5">
-            This is a demo project. You can sign up with your email and password
-            or with Google.
+            You can sign in with your email and password.
           </p>
           {/* right */}
           <div className="flex-1">
