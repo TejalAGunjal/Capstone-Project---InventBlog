@@ -1,6 +1,6 @@
 import { Button, TextInput } from "flowbite-react";
 import { useSelector } from "react-redux";
-
+import { Link } from "react-router-dom";
 export default function DashProfile() {
   const { currentUser } = useSelector((state) => state.user);
   return (
@@ -37,6 +37,13 @@ export default function DashProfile() {
         <Button type="submit" gradientMonochrome="teal">
           Update
         </Button>
+        {/* // {currentUser.isAdmin && ( */}
+        <Link to={"/create-post"}>
+          <Button type="button" gradientMonochrome="success" className="w-full">
+            Create a post
+          </Button>
+        </Link>
+        {/* )} */}
       </form>
       <div className="text-red-500 flex justify-between mt-5">
         <span className="cursor-pointer">Delete Account</span>
