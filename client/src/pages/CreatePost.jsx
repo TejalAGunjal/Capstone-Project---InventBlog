@@ -22,20 +22,9 @@ export default function CreatePost() {
             <option value="nextjs">Next.js</option>
           </Select>
         </div>
-        <div className="flex gap-4 items-center justify-between border-4 border-teal-500 border-dotted p-3">
-          <FileInput
-            type="file"
-            accept="image/*"
-            // onChange={(e) => setFile(e.target.files[0])}
-          />
-          <Button
-            type="button"
-            gradientMonochrome="lime"
-            size="sm"
-
-            // onClick={handleUpdloadImage}
-            // disabled={imageUploadProgress}
-          >
+        <div className="flex gap-4 items-center justify-between border-4 border-lime-500 border-dotted p-3">
+          <FileInput type="file" accept="image/*" />
+          <Button type="button" gradientMonochrome="lime" size="sm">
             Upload Image
           </Button>
         </div>
