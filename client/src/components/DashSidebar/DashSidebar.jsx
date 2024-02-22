@@ -20,17 +20,16 @@ export default function DashSidebar() {
     <Sidebar className="w-full md:w-56">
       <Sidebar.Items>
         <Sidebar.ItemGroup>
-          <Link to="/dashboard?tab=profile">
-            <Sidebar.Item
-              active={tab === "profile"}
-              icon={HiUser}
-              label={"User"}
-              labelColor="dark"
-              as="div"
-            >
-              Profile
-            </Sidebar.Item>
-          </Link>
+          <Sidebar.Item
+            active={tab === "profile"}
+            icon={HiUser}
+            label={"User"}
+            labelColor="dark"
+            as="div"
+          >
+            <Link to="/dashboard?tab=profile">Profile</Link>
+          </Sidebar.Item>
+
           <Sidebar.Item
             icon={HiArrowSmRight}
             className="cursor-pointer"

@@ -20,7 +20,7 @@ const userSchema = new mongoose.Schema(
     profilePicture: {
       type: String,
       default:
-        "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
+        "https://img.freepik.com/photos-premium/belle-illustration-fee-couleurs-vibrantes_363897-2631.jpg",
     },
   },
   { timestamps: true }
