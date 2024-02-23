@@ -22,6 +22,10 @@ const userSchema = new mongoose.Schema(
       default:
         "https://img.freepik.com/photos-premium/belle-illustration-fee-couleurs-vibrantes_363897-2631.jpg",
     },
+    isAdmin: {
+      type: Boolean,
+      default: false,
+    },
   },
   { timestamps: true }
 );
