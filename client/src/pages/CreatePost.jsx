@@ -111,7 +111,7 @@ export default function CreatePost() {
             <option value="nextjs">Next.js</option>
           </Select>
         </div>
-        <div className="flex gap-4 items-center justify-between border-4 border-lime-500 border-dotted p-3">
+        <div className="flex gap-4 items-center justify-between border-4 border-orange-300 border-dotted p-3">
           <FileInput
             type="file"
             accept="image/*"
@@ -119,7 +119,7 @@ export default function CreatePost() {
           />
           <Button
             type="button"
-            gradientMonochrome="lime"
+            gradientDuoTone="pinkToOrange"
             size="sm"
             onClick={handleUpdloadImage}
             disabled={imageUploadProgress}
@@ -153,7 +153,7 @@ export default function CreatePost() {
             setFormData({ ...formData, content: value });
           }}
         />
-        <Button type="submit" gradientMonochrome="success">
+        <Button type="submit" gradientDuoTone="pinkToOrange">
           Publish
         </Button>
         {publishError && (
