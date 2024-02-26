@@ -1,5 +1,5 @@
 # Project Title
-Invent - Exploring the Boundless Realm of Imagination
+Invent Blog - Exploring the Boundless Realm of Imagination
 
 ## Overview
 Invent is the online publishing platform for professionals publishing technology trends and news. 
@@ -47,12 +47,13 @@ In today's fast-paced world, staying updated with the latest technology trends a
 - **Frontend**:
   - React
   - React Router
-  - Axios
-
+  - Tailwind CSS
+  - Flowbite Framework
+    
 - **Backend**:
   - Node.js
   - Express
-  - Database
+  - Database - MongoDB
 
 ### APIs
 
