@@ -44,10 +44,9 @@ export default function SignUp() {
         {/* left */}
         <div className="flex-1">
           <Link to="/" className="font-bold dark:text-white text-4xl">
-            <span className="px-2 py-1 bg-gradient-to-r from-pink-500 via-blue-500 to-pink-500 rounded-lg text-white">
-              Invent
+            <span className="px-2 py-1 bg-gradient-to-r from-pink-500 to-purple-500 rounded-lg text-white">
+              Invent Blog
             </span>
-            Blog
           </Link>
           <p className="text-sm mt-5">
             You can sign in with your email and password.
