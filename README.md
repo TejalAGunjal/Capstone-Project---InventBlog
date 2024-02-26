@@ -90,6 +90,9 @@ List any external sources of data that will be used in your app.
 #### Profile Page
 ![Profile Page](https://github.com/TejalAGunjal/Capstone-Project---InventBlog/blob/main/MockUps/ProfilePage.jpeg)
 
+#### Create a Post
+![Create a Post](https://github.com/TejalAGunjal/Capstone-Project---InventBlog/blob/main/MockUps/Create%20Post%20image.png)
+
 ### Data
 
 User Data: Includes user profiles, preferences, saved articles, and activity logs.
